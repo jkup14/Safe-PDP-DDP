@@ -1,0 +1,12 @@
+#Requirements##
+jax
+gpjax
+jaxkern
+optax
+pprint
+time
+numpy
+matplotlib
+scipy
+plotly
+
